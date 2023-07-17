@@ -14,8 +14,8 @@ function Copyright(props) {
   return (
     <Typography variant="body2" color="text.secondary" align="center" {...props}>
       {'Copyright © '}
-      <Link color="inherit" href="https://github.com/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01">
-        Desafio SHARENERGY
+      <Link color="inherit" href="https://github.com/MNCASTILHOS/aplicacaoDesafio">
+        Aplicação Desafio
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}

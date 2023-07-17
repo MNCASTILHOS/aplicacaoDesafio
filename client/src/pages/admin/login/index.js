@@ -27,8 +27,8 @@ function Copyright() {
     <Typography variant="body2" color="text.secondary" align="center">
       {'Copyright © '}
 
-      <Link color="inherit" href="https://github.com/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01">
-        Desafio SHARENERGY
+      <Link color="inherit" href="https://github.com/MNCASTILHOS/aplicacaoDesafio">
+      Aplicaçao Desafio
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}

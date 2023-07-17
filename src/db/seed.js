@@ -11,9 +11,9 @@ mongoose.connect('mongodb://127.0.0.1:27017/app-react', {}, function (err){
 })
 
 const seedUser = {
-    nome_usuario: "desafiosharenergy",
-    email_usuario: "desafiosharenergy",
-    senha_usuario: "sh@r3n3rgy"
+    nome_usuario: "AplicacaoDesafio",
+    email_usuario: "Aplicacao@desafio",
+    senha_usuario: "desafio123"
 };
 
 const seedDB = async () => {
